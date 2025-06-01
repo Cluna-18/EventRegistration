@@ -1,3 +1,23 @@
+# Event Registration System
+
+This is a full-stack web application built with **Next.js**, **TypeScript**, and **MySQL**, allowing users to view events and register for them. It supports user interaction through a clean and responsive interface and server-side data handling using server actions and MySQL queries.
+
+## 🚀 Features
+
+- View a list of available events
+- Register for an event with a simple form
+- Backend integration with a MySQL database
+- Loading and suspense handling using React's `Suspense`
+- Clean and modern UI with Tailwind CSS
+- GitHub-integrated development workflow
+
+## 🧰 Tech Stack
+
+- **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS
+- **Backend:** Next.js Server Actions
+- **Database:** MySQL (via `mysql2/promise`)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
